@@ -25,4 +25,4 @@ To gamify NFT distribution by combining on-chain randomness with artistically ge
 ## Contract Details
 0x59Af8B56Ce6ebe619A5dCab6c2B781fdfEf096b1
 ![alt text](image.png)
-anshika shrivastava
+anshika shrivastava AS
